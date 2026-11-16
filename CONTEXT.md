@@ -26,7 +26,7 @@ of truth**: other repos reference it, they never copy assets out.
 
 - Per-game art direction — each game has its own art language; see the
   cast-philosophy rule in root `CLAUDE.md` (themes don't bleed between games)
-- Marketing campaigns / social copy / dev updates — those are Comms
+- Marketing campaigns / social copy / dev updates — those are SocialMedia
 - Embedding brand into a product — *reference* `chilyer-brand\` from the
   product, don't duplicate assets
 
